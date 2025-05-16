@@ -8,3 +8,5 @@ spec:
     name: fastapi-app
   port:
     targetPort: 8000
+  tls:
+    termination: edge
