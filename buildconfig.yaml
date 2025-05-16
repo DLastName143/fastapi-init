@@ -6,7 +6,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/your-user/your-fastapi-repo.git
+      uri: https://github.com/DLastName143/fastapi-init.git
   strategy:
     type: Docker
     dockerStrategy:
