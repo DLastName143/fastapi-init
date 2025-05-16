@@ -1,0 +1,2 @@
+# fastapi-init
+testing project
